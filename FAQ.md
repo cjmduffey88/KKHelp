@@ -4,7 +4,7 @@
 - The project is currently in maintenance mode.
 - It receives Bugfixes
 - It receives Card Image updates
-- New features will likely not be added unless an agreement is made for a donation to add them.
+- New features will not be added at all, certain people are ungrateful and rude and it's not worth my time, sorry.
 
 ## Can I pay using... (anything thats not paypal)?
 - No, Paypal is the only payment method available, it keeps things simple and easy to manage.
